@@ -110,7 +110,7 @@ body {
 #welcomeImg{
   height:550px;
   width: 1250px;
- max-width:90%;
+ max-width:100%;
   border: solid black 2px;
   border-radius: 50px;
 }
